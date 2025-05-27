@@ -5,7 +5,7 @@ st.write(
     "ngodingseru berasama Bapak Hendri Setiadi"
 )
 st.image("IMG-20250526-WA0142.jpg", width=200)
-st.image("miku.jpg", width=200)
+st.image("", width=200)
 st.title("Aplikasi Sederhana")
 
 st.header("Aplikasi Mengecek Nilai Genap/Ganjil")
